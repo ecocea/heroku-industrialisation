@@ -1,0 +1,11 @@
+{
+  "name": "@ecocea/heroku-industrialisation",
+  "version": "0.0.1",
+  "description": "Collection of Heroku industrialisation scripts for Node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ./example/release.js"
+  },
+  "author": "",
+  "license": "MIT"
+}
