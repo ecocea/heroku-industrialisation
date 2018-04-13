@@ -1,11 +1,11 @@
 # @ecocea/heroku-industrialisation
 Collection of Heroku Industrialisation scripts for Node.JS  
   
-Execute a list of actions contains in plugins. Some plugins are provided, and you have the ability to create your own.
+Execute a list of actions contained in plugins. Some plugins are provided, and you have the ability to create your own.
 
 ### Prerequisites
 Tested on Node.js 8+  
-Requires ES6 compatibility
+Requires ES6 compatibility  
 Designed for Heroku Release Phase.
 
 ### Installation
